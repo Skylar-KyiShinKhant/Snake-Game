@@ -16,8 +16,20 @@
 </details>
 
 ## About The Project
+### Game Instructions
 
-![snake-game.gif]()
+Snake Movement: Use the __Arrow Keys (Up, Down, Left, Right)__ to navigate the green snake.
+
+Objective: Guide the snake to eat the red apples.
+
+Scoring: Each time the snake consumes an apple, your score increases by 1.
+
+Avoid Collisions: Be cautious not to hit the boundaries, as it results in the end of the game.
+
+Self-Biting: If the snake bites its own tail, the game ends.
+
+Enjoy the game!
+![snake-game.gif](https://github.com/Skylar-KyiShinKhant/Snake-Game/blob/master/Snake-Game.gif)
 
 ## Built with
 - Java
@@ -44,6 +56,8 @@ We love contributions — they're what make the open-source community awesome! Y
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
 ## Contact
-<p>Name : Skylar Kyi Shin Khant</p>
-<p>Email : kyishinkhant2003@gmail.com</p>
-<p>Project Link : https://github.com/Skylar-KyiShinKhant/Snake-Game.git</p>
+Name : Skylar Kyi Shin Khant
+
+Email : kyishinkhant2003@gmail.com
+
+Project Link : https://github.com/Skylar-KyiShinKhant/Snake-Game.git
