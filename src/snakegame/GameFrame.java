@@ -7,7 +7,7 @@ package snakegame;
 
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class GameFrame extends javax.swing.JFrame {
 
