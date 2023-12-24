@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.util.Random;
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class GamePanel extends javax.swing.JPanel implements ActionListener {
 
