@@ -7,7 +7,7 @@ package snakegame;
 
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class SnakeGame {
 
